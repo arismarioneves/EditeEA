@@ -18,6 +18,12 @@ Automatizar um investimento com um robô de investimento é a solução para mui
 - Abrar o executável do robô "Edite.ex5" e estão ele ira instalar e aparecer para uso na plataforma.
 
 
+### Chave Premium :key:
+
+```bash
+142536
+```
+
 ### Plataforma :computer:
 
 [`MetaTrader5`](https://www.metatrader5.com/pt)
