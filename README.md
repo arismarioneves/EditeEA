@@ -24,11 +24,15 @@ Automatizar um investimento com um robô de investimento é a solução para mui
 142536
 ```
 
+### Documentação :books:
+
+[`Arquivo PDF`](https://github.com/arismarioneves/Edite/blob/main/Projeto%20Rob%C3%B4%20de%20Investimento%20-%20Arism%C3%A1rio%20Neves.pdf)
+
 ### Plataforma :computer:
 
 [`MetaTrader5`](https://www.metatrader5.com/pt)
 
-### Manual :books:
+### Manual :bookmark_tabs:
 
 [`Ajuda para o MetaTrader 5`](https://www.metatrader5.com/pt/terminal/help/algotrading/trade_robots_indicators)
 
