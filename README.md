@@ -1,4 +1,4 @@
-# Edite
+# Edite EA (Expert Advisor)
 Edite - Robô de Investimento
 
 EDITE é um robô de investimento que permite ao investidor parametrizar a estratégia dos seus estudos e operar de forma automatizada na bolsa de valores.
